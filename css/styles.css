@@ -29,3 +29,25 @@ header{
     height: 55%;
     border-radius: 10px;
 }
+.conteiner-titulos{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.conteiner-titulos h4{
+    color: blue;
+    font-weight: bold;
+    font-size: 0.3em;
+    margin: 10px 0px;
+}
+.conteiner-titulos h1{
+    margin: 0;
+    font-size: 1em;
+}
+.conteiner-titulos p{
+    font-size: 0.5em;
+    text-align: center;
+    width: 80%;
+}
